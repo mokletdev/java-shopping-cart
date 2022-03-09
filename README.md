@@ -1,3 +1,11 @@
+## Java Insertion Sort
+
+Contoh program java untuk menyimpan list barang belanjanaan dalam array object / array method.
+
+Program ini menggunakan `java.util.Scanner` untuk membaca inputan atau masukan user dan menggunakan `java.math.Array` untuk meng 'utak atik' array.
+
+Dibuat oleh [Dimas Angkasa Nurindra](https://github.com/angkasa27)
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
